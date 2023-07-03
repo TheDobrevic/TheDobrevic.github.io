@@ -1,0 +1,37 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container {
+  width: 400px;
+}
+
+#progress .times,
+.card-footer,
+.volume-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#music-details {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#controls {
+  text-align: center;
+  margin: 2;
+}
+
+.volume-container i {
+  margin-right: 8px;
+}
+
+li.playing {
+  background-color: #0b5eb7;
+  color: #fff;
+}
