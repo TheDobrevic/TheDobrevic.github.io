@@ -20,4 +20,7 @@ const musicList = [
     "2.mp3"
   ),
   new Music("Endless Fashion", "Lil Uzi, Nicki Mİnaj", "3.jpeg", "3.mp3"),
+  new Music("Snow Fairy", "FAIRY TAIL", "4.jpeg", "4.mp3"),
+  new Music("Masuyame Chasing", "FAIRY TAIL", "5.jpeg", "5.mp3"),
+  new Music("Funkist", "FAIRY TAIL", "6.jpeg", "6.mp3"),
 ];
